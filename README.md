@@ -44,6 +44,8 @@ python tools/run_r0_baseline.py
 
 The prior C3.4 release reported **86 passing project tests, one future-C4 test skipped, 44 preserved R0 tests passing, and 5/5 vendored function-local import sites reached** under specified tests. Those results do not verify the full RFC invariant matrix. See [the verification limits](docs/consolidated/VERIFICATION_AND_LIMITS.md) and [C3.4 coverage note](docs/consolidated/C3_FUNCTION_IMPORT_COVERAGE.md). Fresh Desiderata split-run verification is recorded in [`docs/governance/ASSEMBLY_VERIFICATION.md`](docs/governance/ASSEMBLY_VERIFICATION.md), with a machine-readable receipt at `checkpoints/desiderata/ASSEMBLY_RECEIPT.json`.
 
+06.11.2026 addenum the new zip file named is derived from a post mortem analysis from experiments done during the development of the broader system. it is not ment to be a standalone complete analysis or codebase, but a seed for further exploration and ideas and documentation as to what work was done that led to the current project status, scope and ideas.
+
 Proposition 14 is a *known-answer fixture*: its unequal-set formalization permits a finite counterexample, while the disjoint-set interpretation is not refuted by that witness; the **source proposition stays unresolved**. This is evidence for a bounded checker, not general claim interpretation or truth convergence.
 
 ## License
