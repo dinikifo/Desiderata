@@ -48,6 +48,11 @@ The prior C3.4 release reported **86 passing project tests, one future-C4 test s
 
 Proposition 14 is a *known-answer fixture*: its unequal-set formalization permits a finite counterexample, while the disjoint-set interpretation is not refuted by that witness; the **source proposition stays unresolved**. This is evidence for a bounded checker, not general claim interpretation or truth convergence.
 
+## Extra material
+
+* An OOP system built as an ofshoot during the design of the project. It could be useful in future projects.
+* A rulebook for software development with llms distilled from the analysis of the discussions during the production of the codebase.
+  
 ## License
 
 Original material in this release is dedicated under **[CC0 1.0 Universal](LICENSE)** to the extent its rightsholders hold the relevant rights. Historical PERSONAL.WIKI code carries its original Unlicense notice, which is preserved; third-party rights, patent rights, and trademark rights are not silently waived. See [license and provenance scope](docs/governance/LICENSE_AND_PROVENANCE.md). Experimental software is supplied without warranty to the extent permitted by law.
