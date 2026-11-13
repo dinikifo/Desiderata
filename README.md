@@ -10,14 +10,14 @@ It was developed through substantial human-directed collaboration with generativ
 
 ## Read from theory to practice
 
-1. [The collection of short monographs](docs/monographs/INDEX.md): a progressive, editable explanation of the ideas and their limitations.
-2. [User manual](docs/manual/USER_MANUAL.md): what Desiderata is and is not, how to run it, what to expect, and how to inspect a result.
-3. [Codebase map and functionality roadmap](docs/roadmaps/CODEBASE.md): modules, actual behavior, gaps, and acceptance criteria.
-4. [Creators' roadmap](docs/roadmaps/CREATORS.md): editorial, engineering, review, release, and research decisions that remain to be made.
-5. [Bibliography and source catalog](docs/references/BIBLIOGRAPHY.md): internal primary sources, technical documentation, and the distinction between citations and evidence.
-6. [License and publication policy](docs/governance/LICENSE_AND_PROVENANCE.md): CC0-1.0 scope, inherited notices, source lineage, and the AI-development statement.
-7. [Proposed protocol-revision design note](docs/proposals/DN-0001-PROPOSED.md): discussion material, explicitly not accepted or implemented.
-8. [Legacy documentation index](docs/governance/HISTORICAL_RECORD.md): preserved RFC, consolidation, traceability, objections, and checkpoint records.
+1. The collection of short monographs (docs/monographs/INDEX.md: a progressive, editable explanation of the ideas and their limitations.
+2. User manual (docs/manual/USER_MANUAL.md): what Desiderata is and is not, how to run it, what to expect, and how to inspect a result.
+3. Codebase map and functionality roadmap (docs/roadmaps/CODEBASE.md): modules, actual behavior, gaps, and acceptance criteria.
+4. Creators' roadmap (docs/roadmaps/CREATORS.md): editorial, engineering, review, release, and research decisions that remain to be made.
+5. Bibliography and source catalog (docs/references/BIBLIOGRAPHY.md): internal primary sources, technical documentation, and the distinction between citations and evidence.
+6. License and publication policy (docs/governance/LICENSE_AND_PROVENANCE.md): CC0-1.0 scope, inherited notices, source lineage, and the AI-development statement.
+7.  Proposed protocol-revision design note (docs/proposals/DN-0001-PROPOSED.md): discussion material, explicitly not accepted or implemented.
+8. Legacy documentation index (docs/governance/HISTORICAL_RECORD.md): preserved RFC, consolidation, traceability, objections, and checkpoint records.
 
 The monographs are *separable Markdown units*, not a frozen book. Their stable identifiers can be edited, criticized, rearranged, or replaced without silently changing the archived research record.
 
